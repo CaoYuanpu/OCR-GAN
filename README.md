@@ -1,4 +1,4 @@
-## OCR-GAN &mdash; Official PyTorch Implementation
+## (Forked)OCR-GAN &mdash; Official PyTorch Implementation
 
 <!-- Official pytorch implementation of the paper "[APB2FACE: AUDIO-GUIDED FACE REENACTMENT WITH AUXILIARY POSE AND BLINK SIGNALS, ICASSP'20](https://arxiv.org/pdf/2004.14569.pdf)". -->
 
