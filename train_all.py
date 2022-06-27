@@ -12,8 +12,10 @@ def train(opt,class_name):
 def main():
     """ Training
     """
-    texture_classes = ["carpet", "grid", "leather", "tile", "wood"]
-    object_classes = ["cable", "capsule", "hazelnut", "metal_nut", "pill", "screw", "toothbrush", "transistor", "zipper"]
+    # texture_classes = ["carpet", "grid", "leather", "tile", "wood"]
+    # object_classes = ["cable", "capsule", "hazelnut", "metal_nut", "pill", "screw", "toothbrush", "transistor", "zipper"]
+    texture_classes = []
+    object_classes = ["metal_nut"]
     classes = texture_classes + object_classes
     texture_auc = []
     object_auc = []
